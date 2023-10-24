@@ -7,9 +7,6 @@ This project explores the passing statistics in the National Football League (NF
 1. [Dataset](#dataset)
 2. [Analysis](#analysis)
 3. [Findings](#findings)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Dataset
 The dataset used for this analysis includes data on passing yards, touchdowns, interceptions, player positions, and player ages. It provides a comprehensive view of passing performance in the NFL over the years. The data source is Kaggle.
